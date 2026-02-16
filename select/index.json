@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Routines In The Night",
+  "base_artist": "twenty one pilots",
+  "createdAt": "2026-02-16T06:34:26.551432Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Routines In The Night",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/01_Routines_In_The_Night_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Routines In The Night",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/02_Routines_In_The_Night_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Routines In The Night",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/03_Routines_In_The_Night_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "﻿Routines In The Night",
+      "artist": "﻿Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/04_﻿Routines_In_The_Night_﻿Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Routines in the Night",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/05_Routines_in_the_Night_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Routines In The Night",
+      "artist": "Twenty One Pilots",
+      "has_synced": false,
+      "path": "select/pl_01_Routines_In_The_Night_Twenty_One_Pilots.txt"
+    }
+  ]
+}
